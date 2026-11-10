@@ -16,6 +16,7 @@ notes, journals, study material, documentation, and knowledge bases.
 ## Preview
 
 Dark:
+![Gruvbox Calm: note view](images/note-view.png)
 
 ![Gruvbox Calm: dark, graph view](images/graph-view.png)
 
