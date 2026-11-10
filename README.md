@@ -5,8 +5,6 @@
 Warm gruvbox colors, in dark and light, for long-form reading and writing in Obsidian:
 notes, journals, study material, documentation, and knowledge bases.
 
-![Gruvbox Calm: note view](images/note-view.png)
-
 ## Benefits
 
 - **Easy on long sessions.** Backgrounds are `#282828` (dark) and `#fbf1c7` (light) and text is `#ebdbb2` and `#3c3836`. The theme never uses pure black or pure white for backgrounds or text.
